@@ -1,0 +1,6 @@
+{
+ "ZACKS_RATINGS_PATH": "data/zacks_ratings.json",
+ "CURRENCYCOM_QUOTES_PATH": "data/tickers_from_currencycom.json",
+ "TIPRANK_DATA_PATH": "data/tipranks",
+ "COMBINED_DATA_PATH": "data/combined.json"
+}

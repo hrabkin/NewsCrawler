@@ -1,0 +1,11 @@
+{
+    "refresh_quotes": "M",
+    "refresh_zacks": "D",
+    "refresh_tiprank": "D",
+    "paths": {
+        "ZACKS_RATINGS_PATH": "tmp/zacks_ratings.json",
+        "CURRENCYCOM_QUOTES_PATH": "tmp/tickers_from_currencycom.json",
+        "TIPRANK_DATA_PATH": "tmp/tipranks",
+        "COMBINED_DATA_PATH": "tmp/combined.json"
+    }
+}
