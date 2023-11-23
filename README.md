@@ -6,3 +6,5 @@ Was used to download and process the following dataset which can be bought on [G
 
 # Data Distribution
 ![Data Distribution](img.png)
+
+this representation of the dataset was created via [Tableau](https://www.tableau.com/pricing/teams-orgs)
